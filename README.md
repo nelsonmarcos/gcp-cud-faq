@@ -7,8 +7,8 @@ for a specific number of resources for a period of 1 or 3 years and in return GC
 Q: Which type of resources can get CUDs?<br>
 A: [vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=vCPUs%2C%20memory%2C%20GPUs%2C%20local%20SSDs%2C%20and%20sole%2Dtenant%20nodes)
 
-Q: CUDs can be shared among project or dedicated to a sigle project?<br>
-A: [Yes. You can use CUD on a sigle project or on mutiple projects.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=You%20can%20purchase%20a%20committed%20use%20contract%20for%20a%20single%20project%2C%20or%20purchase%20multiple%20contracts%20which%20you%20can%20share%20across%20many%20projects%20by%20enabling%20shared%20discounts.)
+Q: Can I buy CUD to be shared among projects? Can I buy CUD and apply then to a specific project?<br>
+A: [Yes for both. You can use CUD on a sigle project or on mutiple projects.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=You%20can%20purchase%20a%20committed%20use%20contract%20for%20a%20single%20project%2C%20or%20purchase%20multiple%20contracts%20which%20you%20can%20share%20across%20many%20projects%20by%20enabling%20shared%20discounts.)
 
 Q: What is the default behavior for CUD sharing?<br>
 A: [By default CUDs are not shared. If you want to share, you have to enable it.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=By%20default%2C%20committed%20use%20discounts%20are%20applied%20to%20the%20project%20where%20you%20purchased%20it.)
