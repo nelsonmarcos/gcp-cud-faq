@@ -1,8 +1,8 @@
-# gcp-cud-guide
+# gcp-cud-faq
 Tips on how to use commited use discounts(CUD) on  Google Cloud Plataform 
 
 The term [commited use discounts](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts) refers to a contract you do with GCP on which you agree to pay a specific amount of money
-for a specific number of resources for a period of 1 or 3 years and in return GCP gives you up to 70% of discount on those resources.
+for a specific number of resources for a period of 1 or 3 years and in return GCP gives you up to(but not always) 70% of discount.
 
 Q: Which type of resources can get CUDs?<br>
 A: [vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=vCPUs%2C%20memory%2C%20GPUs%2C%20local%20SSDs%2C%20and%20sole%2Dtenant%20nodes)
@@ -20,7 +20,7 @@ Q: Does CUD require any upfront payment?<br>
 A: [No.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=require%20no%20upfront%20costs)
 
 Q: Do I have to match a CUD offer with a instance/vm offer?<br>
-A: You have to match the instance type but you don't have to match number of vCPU, memory and etc since CUD apply to the aggregate number of resources within a region
+A: [Yes, you have to match the instance type](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=Purchase%20the%20appropriate%20commitment%20type%20for%20the%20machine%20types%20you%20are%20using.) [but you don't have to match number of vCPU, memory and etc since CUD apply to the aggregate number of resources within a region](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=For%20example%2C%20assume%20you%20have%20a%20region%20with%20the%20following%20mix%3A)
 
 Q: Are there exceptions on which CUD do not apply?<br>
 A: [Yes. 50, 75, and 100 Gbps higher bandwidth SKUs,F1-micro and g1-small shared-core machines are not eligible for committed use discounts.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=Although%20N2%20and,committed%20use%20discounts)
