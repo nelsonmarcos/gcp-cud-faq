@@ -1,12 +1,12 @@
 # gcp-cud-faq
 A FAQ about commited use discounts(CUD) on  Google Cloud Plataform 
 
-The term [commited use discounts](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts) refers to a contract you do with GCP on which you agree to pay a specific amount of money, for a specific number of resources, for a period of 1 or 3 years. In return, GCP gives you a discount based on machine type and period of commitment.
+The term [commited use discounts](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts) refers to a contract you do with GCP on which you agree to pay a specific number of resources during  a period(1 or 3 years) and in return, GCP gives you a discount based on machine type and period of commitment.
 
 Q: How much discount can I get?<br>
-A: [On specific commits you get get up to a 70% discount. BUT it will vary according to the region, machine type and period of commitment.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=The%20discount%20is%20up%20to%2057%25%20for%20most%20resources%20like%20machine%20types%20or%20GPUs.%20The%20discount%20is%20up%20to%2070%25%20for%20memory%2Doptimized%20machine%20types.)
+A: [On specific commits you get up to a 70% discount. BUT it will vary according to the region, machine type and period of commitment.](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=The%20discount%20is%20up%20to%2057%25%20for%20most%20resources%20like%20machine%20types%20or%20GPUs.%20The%20discount%20is%20up%20to%2070%25%20for%20memory%2Doptimized%20machine%20types.)
 
-Q: Which type of resources can get CUD?<br>
+Q: Which type of resources can recieve CUD?<br>
 A: [vCPUs, memory, GPUs, local SSDs, and sole-tenant nodes](https://cloud.google.com/compute/docs/instances/signing-up-committed-use-discounts#:~:text=vCPUs%2C%20memory%2C%20GPUs%2C%20local%20SSDs%2C%20and%20sole%2Dtenant%20nodes)
 
 Q: Can I buy CUD to be shared among projects? Can I buy CUD and apply then to a specific project?<br>
